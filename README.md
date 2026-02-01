@@ -33,3 +33,11 @@ O foco principal é a análise de tendências salariais baseada em diversos fato
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/thiagoan19/imersao-dados-python.git](https://github.com/thiagoan19/imersao-dados-python.git)
+
+## 📷 Visualização do Dashboard
+
+### Visão Geral
+![Interface do Dashboard 1](Dashboard1.png)
+
+### Análise por Localidade e Senioridade
+![Interface do Dashboard 2](Dashboard2.png)
