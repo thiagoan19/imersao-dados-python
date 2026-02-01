@@ -37,7 +37,7 @@ O foco principal é a análise de tendências salariais baseada em diversos fato
 ## 📷 Visualização do Dashboard
 
 ### Visão Geral
-![Interface do Dashboard 1](Dashboard1.png)
+![Interface do Dashboard 1](img/Dashboard1.png)
 
 ### Análise por Localidade e Senioridade
-![Interface do Dashboard 2](Dashboard2.png)
+![Interface do Dashboard 2](img/Dashboard2.png)
