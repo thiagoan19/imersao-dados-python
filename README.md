@@ -1,6 +1,6 @@
 # 📊 Imersão Dados Python: Análise de Salários em Tech
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://imersao-dados-python-thiago.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://imersao-dados-python-thiago.streamlit.app/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1abyg8L_XIJ5-BGHU4R3b_8IFcIAdb8JA?usp=sharing)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
